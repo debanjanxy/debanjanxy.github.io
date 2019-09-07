@@ -15,7 +15,7 @@ redirect_from:
 * Grade: **First Class**
 
 ### Higher Secondary Education, Ballygunge Govt. High School, 2012
-* Fell in love with mathematics and Bengali literature
+* Major subjects: Mathematics, Physics, Chemistry
 * Percentage: **82.80%**
 
 ### Secondary Education (Madhyamik), Ballygunge Govt. High School, 2010
