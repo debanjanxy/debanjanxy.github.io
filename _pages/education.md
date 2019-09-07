@@ -19,5 +19,4 @@ redirect_from:
 * Percentage: **82.80%**
 
 ### Secondary Education (Madhyamik), Ballygunge Govt. High School, 2010
-* Started a liking towards Mathematics
 * Percentage: **82.75%**
