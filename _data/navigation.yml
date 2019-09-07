@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/  
+    url: /portfolio/  
   
   - title: "Publications"
     url: /publications/
@@ -16,7 +16,7 @@ main:
     url: /cv/
     
   - title: "Recreational"
-    url: /recreational/
+    url: /markdown/
 
  - title: "Blog Posts"
     url: /year-archive/
