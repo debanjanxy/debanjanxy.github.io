@@ -6,8 +6,7 @@ redirect_from:
   - /md/
 ---
 ## Accenture Operations 
-#### Data Scientist 
-###### Jul'19 - Present
+#### Data Scientist (Jul'19 - Present)
 * Performed exploratory data analysis on real-life datasets
 * Developed data visualization modules
 * Developed anomaly detcetion module with inter-quartile range calculation of highly influential numerical features
