@@ -2,9 +2,8 @@
 title: "Well Detection in Satellite Images using Convolutional Neural Networks"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2019-05-03
-venue: 'Proceedings of the 5th International Conference on Geographical Information Systems Theory, Applications and Management (GISTAM) 2019'
+venue: 'Proceedings of the 5th International Conference on Geographical Information Systems Theory, Applications and Management (GISTAM)'
 paperurl: 'http://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=77349'
 ---
 ### Abstract
