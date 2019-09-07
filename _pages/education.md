@@ -7,16 +7,16 @@ redirect_from:
 ---
 
 ### M.Tech in Computer Science & Engg., IIT Bombay, 2019
-* Research Area: Computer vision, machine learning, software development
+* Research Areas: Computer vision, machine learning, software development
 * CPI: **9.18**
 
 ### B.Engg. in Computer Science & Engg., Jadavpur University, 2017
-* Research Area: Information retrieval, natural language processing
+* Research Areas: Information retrieval, natural language processing
 * Grade: **First Class**
 
 ### Higher Secondary Education, Ballygunge Govt. High School, 2012
-* Major: Physics, Chemistry, Mathematics, Biology
-* Percentage: **82.8%**
+* Fell in love with mathematics and Bengali literature
+* Percentage: **82.80%**
 
 ### Secondary Education (Madhyamik), Ballygunge Govt. High School, 2010
 * Started a liking towards Mathematics
