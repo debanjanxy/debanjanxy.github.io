@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Debanjan Das"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Debanjan Das is a professional data scientist currently working at Accenture Operations. He has completed M.Tech in Computer Science & Engineering from IIT Bombay. His research interest lies in the area of artificial intelligence, computational linguistics, computer vision, neuroscience, machine learning and data science. He has also worked in the area of object recognition in satellite images using deep learning.
+Debanjan Das is a professional data scientist currently working at Accenture Operations. He graduated from the [Dept. of Computer Science & Engineering at IIT Bombay](https://www.cse.iitb.ac.in/), where he worked with Prof. [Om P. Damani](https://www.cse.iitb.ac.in/~damani/). He has worked in the area of computer vision, machine learning and software development. His M.Tech research project has been deployed by the PoCRA (Project on Climate Resilient Agriculture), Govt. of Maharashtra. He believes artificial intelligence can save the humanity.
+
+
