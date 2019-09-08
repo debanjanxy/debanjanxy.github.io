@@ -1,7 +1,7 @@
 ---
 title: "JU_KS_Group@ FIRE 2016: consumer health information search"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2016-10-01-paper-title-number-2
 date: 2010-12-24
 venue: 'Forum for Information Retrieval Evaluation'
 paperurl: 'https://arxiv.org/ftp/arxiv/papers/1612/1612.08178.pdf'
